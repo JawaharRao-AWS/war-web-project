@@ -8,7 +8,7 @@ import java.io.Serializable;
  * members that are accessible through getters and setters.
  * 
  * @author Johan Holmberg
- * Hello Everyone
+ * Hello Everyone - I have edited it
  */
 
 
