@@ -7,7 +7,7 @@ import java.io.Serializable;
  * number of values. It exposes an empty constructor and has a number of
  * members that are accessible through getters and setters.
  * 
- * @author Johan Holmberg
+ * @author Johan Holmberg hahha
  * Hello Everyone - I have edited it
  */
 
