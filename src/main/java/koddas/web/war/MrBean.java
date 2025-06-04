@@ -8,7 +8,10 @@ import java.io.Serializable;
  * members that are accessible through getters and setters.
  * 
  * @author Johan Holmberg
+ * Hello Everyone
  */
+
+
 public class MrBean implements Serializable {
 	/**
 	 * Being a serializable class, the bean needs a unique identification
