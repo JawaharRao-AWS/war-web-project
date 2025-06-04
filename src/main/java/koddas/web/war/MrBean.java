@@ -1,4 +1,4 @@
-package koddas.web.war;
+ackage koddas.web.war;
 
 import java.io.Serializable;
 
