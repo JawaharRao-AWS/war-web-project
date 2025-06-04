@@ -27,7 +27,7 @@ public class WebService {
 	
 	/**
 	 * Prints "It's working" when /wwp-1.0.0/webapi/service is accessed.
-	 * 
+	 *  !!!!
 	 * @return A web response. 9999
 	 */
 	@GET // This endpoint will be available using GET and GET only 
