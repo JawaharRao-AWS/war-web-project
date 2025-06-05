@@ -19,7 +19,7 @@ import com.google.gson.Gson;
 
 /**
  * A very simple web service.
- * 
+ * Yes 
  * @author Johan Holmberg
  */
 @Path("service")  // By altering the argument, you'll change the service's URL
